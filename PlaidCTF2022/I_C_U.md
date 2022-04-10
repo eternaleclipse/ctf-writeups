@@ -171,6 +171,10 @@ As for the OCR, it was a matter of finding the correct positioning, font and siz
 
 After an hour or so, I came up with this masterpiece:
 
+![gg](gmtf.jfif)
+
+Note the small string at the upper-right corner - That's what's actually being read by the OCR.
+
 ## Part II - Hyperopia
 
 Moving on from my adventures with Paint, let's look at the next flag checks:

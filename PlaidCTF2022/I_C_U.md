@@ -2,7 +2,7 @@
 
 __Intro__
 
-**I_C_U** was an exciting challenge by **f0xtr0t** and [@thebluepichu](https://twitter.com/thebluepichu) for PlaidCTF 2022. It was categorized "Misc" and included two flags, scoring for 100 and 200 points.
+**I_C_U** was an exciting challenge by [@jay_f0xtr0t](https://twitter.com/jay_f0xtr0t) and [@thebluepichu](https://twitter.com/thebluepichu) for PlaidCTF 2022. It was categorized "Misc" and included two flags, scoring for 100 and 200 points.
 
 Reading the challenge description, the theme here is around organizing images by similarity.
 

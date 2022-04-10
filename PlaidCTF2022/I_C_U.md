@@ -167,7 +167,7 @@ I quickly found out that:
 - Changing different parts of the image changes different parts of the hash
 - Playing with colors can modify the value - It seemed like adding white increased the value for the specific part of the hash that was being modified
 
-As for the OCR, it was a matter of finding the correct positioning, font and size for the text so it would only detect "give me the flag" and not add extra gibberish characters
+As for the OCR, it was a matter of deforming the existing ("sudo please") text so it would ignore it, and finding the correct positioning, font and size for the new text so it would only detect "give me the flag" and not add extra gibberish characters
 
 After an hour or so, I came up with this masterpiece:
 

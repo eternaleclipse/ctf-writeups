@@ -190,7 +190,7 @@ else if dist > 0
 
 Checks for this flag:
 - Header should be PNG / JPEG
-- hash should different by at least 1 bit
+- hashes should be different (by at least 1 bit)
 - The text recognized for both images should be "give me the flag"
 - The entire difference between the two files should be exactly 1 bit
 

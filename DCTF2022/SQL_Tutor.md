@@ -98,7 +98,7 @@ Sending blacklisted strings in the base64-encoded input results in a different r
 **Ideas**
 
 At this point, I had some ideas:
-- Maybe it's possible to find a (SHA1 collision)[https://shattered.io/], but that would be overkill + it would still not provide the secret required.
+- Maybe it's possible to find a [SHA1 collision](https://shattered.io/), but that would be overkill + it would still not provide the secret required.
 - The text trimming should be safe since it applies before validation and hashing
 - The `sanitize()` call inside the `sha1()` did seem suspicious (maybe it's filtering some extra characters and doing decoding that will allow us to somehow bypass the original filter?)
 - Finding the secret by using small inputs (it won't allow an empty input) and bruteforcing / searching for the cracked hash online
